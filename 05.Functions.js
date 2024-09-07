@@ -23,13 +23,6 @@ function areaOfCircle(Pi, radius) {
 
 
 
-
-
-
-
-
-
-
 // Call the function
 hello();
 helloForStudent("Tharaka");
